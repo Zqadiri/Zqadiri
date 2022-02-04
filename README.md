@@ -9,12 +9,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zqadiri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" margin-bottom= "50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqadiri&layout=compact&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</div>
+<div href="https://github.com/anuraghazra/convoychat">
   <img align="center" margin-bottom= "50px" src="https://github-readme-stats.vercel.app/api?username=zqadiri&theme=dark&show_icons=true" />
-</a>
+</div>
 
 
   
