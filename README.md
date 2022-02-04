@@ -10,8 +10,8 @@
 </div> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" margin-left="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqadiri&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqadiri&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zqadiri" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zqadiri&theme=dark&show_icons=true" />
 </a>
