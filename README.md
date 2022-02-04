@@ -11,7 +11,7 @@
 
 <div>
 
- <img align="left" href="https://github.com/anuraghazra/convoychat" src="https://github-readme-stats.vercel.app/api?username=zqadiri&theme=dark&show_icons=true" width="1000" height="1000" border="10"/>
+ <img align="left" href="https://github.com/anuraghazra/convoychat" src="https://github-readme-stats.vercel.app/api?username=zqadiri&theme=dark&show_icons=true" width="500" height="500" border="10"/>
 
 </div>
 
