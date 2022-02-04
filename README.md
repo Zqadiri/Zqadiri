@@ -10,7 +10,7 @@
 </div>
 </br>
 </br>
-<div style="margin: 30px;">
+<div align="right">
 
  <img align="left" href="https://github.com/anuraghazra/convoychat" src="https://github-readme-stats.vercel.app/api?username=zqadiri&theme=dark&show_icons=true" />
 
