@@ -6,14 +6,15 @@
 
 <div align="right">
 
- <img  href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqadiri&layout=compact&theme=dark&show_icons=true" width="350" height="300" border="10" align="left"/>
+ <img  href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqadiri&layout=compact&theme=dark&show_icons=true" width="350" height="300" border="0" align="left"/>
 <!-- </div>
 
 <div > -->
 
- <img  href="https://github.com/anuraghazra/convoychat" src="https://github-readme-stats.vercel.app/api?username=zqadiri&theme=dark&show_icons=true" width="350" height="300" border="10" align="right"/>
+ <img  href="https://github.com/anuraghazra/convoychat" src="https://github-readme-stats.vercel.app/api?username=zqadiri&theme=dark&show_icons=true" width="350" height="300" border="0" align="right"/>
 
 </div>
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
 
 
   
