@@ -7,7 +7,7 @@
 <p align="center">
 
  <a>
- <img  href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqadiri&layout=compact&theme=dark&show_icons=true" width="350" height="300" border="0" align="left"/>
+ <img  href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqadiri&layout=compact&theme=dark&show_icons=true" width="400" height="300" border="0" align="left"/>
 </a>
  
  <a>
