@@ -3,10 +3,18 @@
 </div>
 
 
----
-### &nbsp; How to reach me:
 
-<p id="badges" align="center">
+
+<h2> Hi, I'm Zaineb Qadiri! <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
+
+<h2> My Stats <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zqadiri&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zqadiri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<h2> How to reach me <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
+ <p id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,15 +29,6 @@
   </a>
 </p>
 
-
-<h2> Hi, I'm Zaineb Qadiri! <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
-
-<h2> My Stats <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zqadiri&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zqadiri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Zqadiri&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Zqadiri&style=flat-square&color=blue" alt=""/>
 </div>
