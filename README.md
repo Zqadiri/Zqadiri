@@ -1,4 +1,4 @@
-[1]: http://www.github.com/Zqadiri
+<!-- [1]: http://www.github.com/Zqadiri
 [2]: https://www.linkedin.com/in/
 [3]: https://www.linkedin.com/in/
 
@@ -16,5 +16,8 @@
  <img  href="https://github.com/anuraghazra/convoychat" src="https://github-readme-stats.vercel.app/api?username=zqadiri&theme=dark&show_icons=true" width="370" height="300" border="0" align="right"/>
 </a>
  </p>
+ -->
 
-
+<div id="header" align="center">
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+ </div>
