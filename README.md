@@ -2,6 +2,10 @@
   <img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
 </div>
 
+
+---
+### &nbsp; How to reach me:
+
 <p id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,8 +20,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
-
----
 
 
 <h2> Hi, I'm Zaineb Qadiri! <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
