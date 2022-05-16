@@ -22,7 +22,7 @@
 
 <h2> Hi, I'm Zaineb Qadiri! <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
 
-
+<h2> My Stats <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
 ---
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Zqadiri&style=flat-square&color=blue" alt=""/>
