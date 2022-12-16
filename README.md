@@ -5,8 +5,8 @@
 <h2> Hi, I'm Zaineb Qadiri!</h2>
 
 - 🔭 Student at 1337 School [42 Network].
-- 🌱 I’m currently learning about JavaScript
-- 💬 Ask me about C, C++, or anything! I won't always be able to help, but I'll do my best !
+- 🌱 I’m currently learning about React
+- 💬 Ask me about C, C++, Javascript or anything! I won't always be able to help, but I'll do my best !
 
 
 <h2> My Stats : </h2>
