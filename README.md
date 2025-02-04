@@ -4,11 +4,11 @@
 
 <h2> Hi, I'm Zaineb Qadiri!</h2>
 
-🔭 Full-Stack Developer | Java & JavaScript
-🎓 Alumni of 1337 School (42 Network)
-💼 Experienced in Java, JavaScript (Node.js, NestJS)
-🛠 Worked on backend and frontend development, including authentication, database management, and API development
-💬 Ask me about Java, JavaScript or full-stack development! I’ll do my best to help.
+- 🔭 Full-Stack Developer | Java & JavaScript
+- 🎓 Alumni of 1337 School (42 Network)
+- 💼 Experienced in Java, JavaScript (Node.js, NestJS)
+- 🛠 Worked on backend and frontend development, including authentication, database management, and API development
+- 💬 Ask me about Java, JavaScript or full-stack development! I’ll do my best to help.
 
 
 <h2> My Stats : </h2>
@@ -20,7 +20,7 @@
 <h2> How to reach me : </h2>
  <p id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="www.linkedin.com/in/zainebqadiri" alt="LinkedIn Badge"/>
+    <img src="[www.linkedin.com/in/zainebqadiri](https://www.linkedin.com/in/zainebqadiri/)" alt="LinkedIn Badge"/>
   </a>
 </p>
 
