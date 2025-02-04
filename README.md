@@ -4,9 +4,11 @@
 
 <h2> Hi, I'm Zaineb Qadiri!</h2>
 
-- 🔭 Student at 1337 School [42 Network].
-- 🌱 I’m currently learning about React
-- 💬 Ask me about C, C++, Javascript or anything! I won't always be able to help, but I'll do my best !
+🔭 Full-Stack Developer | Java & JavaScript
+🎓 Alumni of 1337 School (42 Network)
+💼 Experienced in Java, JavaScript (Node.js, NestJS)
+🛠 Worked on backend and frontend development, including authentication, database management, and API development
+💬 Ask me about Java, JavaScript or full-stack development! I’ll do my best to help.
 
 
 <h2> My Stats : </h2>
@@ -18,16 +20,7 @@
 <h2> How to reach me : </h2>
  <p id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Zqadiri">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:zinebghost@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="www.linkedin.com/in/zainebqadiri" alt="LinkedIn Badge"/>
   </a>
 </p>
 
